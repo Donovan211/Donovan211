@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Unathi Spele, and I am a student currently doing their undergrad in BSc Mathematical and Computer science.
+My current interests are in all things regarding C++ and Java!
 <!--
 **Donovan211/Donovan211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
