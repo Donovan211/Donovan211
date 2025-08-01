@@ -1,8 +1,6 @@
 ## Hey there👋
 My name is Unathi Spele, and I am a student currently doing their first year in BSc Mathematical and Computer science.
-My current interests are in all things regarding C++ and Java!
- 
-     ProfileMe.dev
+My current interests are in all things regarding C++ and Java.
 
 ### Socials            
   <p align="left">
