@@ -1,5 +1,5 @@
 ## Hey there👋
-My name is Unathi Spele, and I am a student currently doing their undergrad in BSc Mathematical and Computer science.
+My name is Unathi Spele, and I am a student currently doing their first year in BSc Mathematical and Computer science.
 My current interests are in all things regarding C++ and Java!
  
 ### Socials            
@@ -38,13 +38,13 @@ My current interests are in all things regarding C++ and Java!
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
                     </p>
                     
-### Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=Donovan211&theme=algolia&hide_border=false&include_all_commits=true&count_private=true) </br>
+### Github Stats
+<a href="http://www.github.com/Donovan211"><img src="https://github-readme-stats.vercel.app/api?username=Donovan211&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="Donovan211's GitHub stats" /></a>
 
-### Github Streak:
+### Github Streak
 ![](https://nirzak-streak-stats.vercel.app/?user=Donovan211&theme=algolia&hide_border=false)</br>
 
-### Language Contribution:            
+### Language Contribution        
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Donovan211&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
