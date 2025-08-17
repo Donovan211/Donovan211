@@ -1,6 +1,7 @@
 ## Hey there👋
-My name is Unathi Spele, and I am a student currently doing their first year in BSc Mathematical and Computer science.
+My name is Unathi Spele, and I currently doing my first year in BSc Mathematical and Computer science.
 My current interests are in all things regarding C++ and Java.
+
 
 ### Socials            
   <p align="left">
@@ -41,11 +42,8 @@ My current interests are in all things regarding C++ and Java.
 ### Github Stats
 <a href="http://www.github.com/Donovan211"><img src="https://github-readme-stats.vercel.app/api?username=Donovan211&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="Donovan211's GitHub stats" /></a>
 
-### Github Streak
-![](https://nirzak-streak-stats.vercel.app/?user=Donovan211&theme=algolia&hide_border=false)</br>
-
-### Language Contribution        
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Donovan211&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Language Contribution 
+<a href="https://github.com/Donovan211" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donovan211&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Donovan211&icon=0&color=0)](https://visitcount.itsvg.in)
