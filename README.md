@@ -1,5 +1,5 @@
 ## Greetings, Code Enthusiast👋
-I am **Unathi Spele**, a first-year BSc Mathematical and Computer science student.
+I am **Unathi Spele**, a second-year BSc Mathematical and Computer science student.
 My academic journey is fueled with passion for algorithmic problem-solving and solving issues through mathematical means. Currently, I spend my time exploring C++ and Java.
 
 
